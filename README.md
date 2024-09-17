@@ -8,7 +8,6 @@ IES Álvaro Falomir. Almazora (Castellón)
 
 - [Contenidos](#contenidos)
 - [Resultados de aprendizaje](#resultados-de-aprendizaje)
-- [Evaluación](#evaluación)
 
 ## Contenidos
 1. [Repaso de Java y Programación Funcional](https://github.com/alejandroroig/AccesoDatos-2024-2025-01)
