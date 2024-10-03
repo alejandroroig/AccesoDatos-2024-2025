@@ -11,7 +11,7 @@ IES Álvaro Falomir. Almazora (Castellón)
 
 ## Contenidos
 1. [Repaso de Java y Programación Funcional](https://github.com/alejandroroig/AccesoDatos-2024-2025-01)
-2. Manejo de ficheros
+2. [Manejo de ficheros](https://github.com/alejandroroig/AccesoDatos-2024-2025-02)
 3. Acceso a Bases de Datos SQL
 4. Acceso a Bases de Datos NoSQL
 5. Mapeo Objeto-Relacional
