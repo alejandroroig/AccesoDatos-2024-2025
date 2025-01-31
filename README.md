@@ -15,7 +15,7 @@ IES Álvaro Falomir. Almazora (Castellón)
 3. [Acceso a Bases de Datos SQL](https://github.com/alejandroroig/AccesoDatos-2024-2025-03)
 4. [Acceso a Bases de Datos NoSQL](https://github.com/alejandroroig/AccesoDatos-2024-2025-04)
 5. [Mapeo Objeto-Relacional](https://github.com/alejandroroig/AccesoDatos-2024-2025-05)
-6. Componentes Avanzados
+6. [Componentes Avanzados](https://github.com/alejandroroig/AccesoDatos-2024-2025-06)
 
 El índice y contenidos puede variar a lo largo del curso para adaptarse al proceso de enseñanza-aprendizaje.
 
